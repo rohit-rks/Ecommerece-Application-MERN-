@@ -1,8 +1,7 @@
 # ProShop eCommerce Platform
 
-> eCommerce platform built with the MERN stack & Redux.
+> eCommerce platform built with the MERN stack .
 
-This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
 ![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
 
@@ -22,8 +21,6 @@ This is the course project for my [MERN eCommerce From Scratch](https://www.udem
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-## Note on Issues
-Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
 
 ## Usage
 
@@ -65,33 +62,4 @@ npm run server
 cd frontend
 npm run build
 ```
-
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
-
-### Seed Database
-
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
-
-```
-# Import data
-npm run data:import
-
-# Destroy data
-npm run data:destroy
-```
-
-```
-Sample User Logins
-
-admin@example.com (Admin)
-123456
-
-john@example.com (Customer)
-123456
-
-jane@example.com (Customer)
-123456
-```
-
-
 
