@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+#  Ecommerce Application
 
 > eCommerce platform built with the MERN stack .
 
